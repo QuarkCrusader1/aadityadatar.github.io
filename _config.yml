@@ -24,7 +24,7 @@ author:
   avatar           : "IMG_20240510_144604_832.jpg"
   name             : "Aaditya Datar"
   pronouns         : "he/him"  
-  bio              : "physics Graduate"
+  bio              : "Physics Graduate"
   location         : "Pune, India"
   employer         : "Indian Institute of Science Education and Research (IISER), Pune"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0003-8042-2325"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
