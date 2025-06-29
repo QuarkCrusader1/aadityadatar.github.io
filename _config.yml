@@ -24,14 +24,14 @@ author:
   avatar           : "IMG_20240510_144604_832.jpg"
   name             : "Aaditya Datar"
   pronouns         : "he/him"  
-  bio              : "Physics Graduate"
+  bio              : "BS-MS Physics"
   location         : "Pune, India"
-  employer         : "IISER Pune"
+  employer         : "Indian Institute of Science Education and Researh, Pune"
   uri              : # URL
   email            : "aadityadatar.physics@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/hep-th?searchtype=author&query=Datar,+A"
   googlescholar    : "https://scholar.google.com/citations?user=uzJmOgoAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/0009-0003-8042-2325"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "aadityadatar13"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -281,7 +281,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
